@@ -23,9 +23,11 @@ In this project I used 2 datasets:
 Even though the results seem to be very promising for me personally, I ask you not to take them too seriously because, as some of you might know, according to statistics the average longevity of swiss students in 19th century was 20.2 years (you can find this in the article: [The most dangerous profession: A note on nonsampling error.](https://psycnet.apa.org/doiLanding?doi=10.1037%2F1082-989X.4.3.250)).
 
 
-# Notebooks
+# Notebook & Website
 The project includes the following Notebook with detailed analysis and code:
 - [Readhead people Project.ipynb](https://github.com/ElinaAizenberg/Readhead-people---Project/blob/main/Readhead%20people%20Project.ipynb)
+
+If you are interested in more visually pleasant presentation of this project, please, visit my website  elina-aizenberg-cv.com .
 
 # Conclusion
 
