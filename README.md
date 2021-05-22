@@ -41,8 +41,8 @@ Well, results look very promising for me. Despite all health problems, whether t
 
 Nevertheless, there are several issues about technical side of the project that should be considered while evaluating the results.
 
-There is a 3-5 years gap between death distribution dataset and redhead people dataset. So, they are not aligned.
+1. There is a 3-5 years gap between death distribution dataset and redhead people dataset. So, they are not aligned.
 
-In redhead people dataset there were several ages without respondents. Also, for people aged 0-21 and 73-100 in 2019 there was lack of data about hair color rates. So, I extrapolated the existing rates using rolling mean. Although, I tried to catch trend during long time periods, I suppose, artificially calculated rates might differ substaintionally from real ones.
+2. In redhead people dataset there were several ages without respondents. Also, for people aged 0-21 and 73-100 in 2019 there was lack of data about hair color rates. So, I extrapolated the existing rates using rolling mean. Although, I tried to catch trend during long time periods, I suppose, artificially calculated rates might differ substaintionally from real ones.
 
-As I mentioned in the beginning, respondents in survey of health and hair color were from Czech Republic and Slovenia, while I used only czech death distribution data.
+3. As I mentioned in the beginning, respondents in survey of health and hair color were from Czech Republic and Slovenia, while I used only czech death distribution data.
