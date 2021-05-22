@@ -25,7 +25,7 @@ Even though the results seem to be very promising for me personally, I ask you n
 
 # Notebooks
 The project includes the following Notebook with detailed analysis and code:
-- Readhead people Project.ipynb
+- [Readhead people Project.ipynb](https://github.com/ElinaAizenberg/Readhead-people---Project/blob/main/Readhead%20people%20Project.ipynb)
 
 # Conclusion
 
