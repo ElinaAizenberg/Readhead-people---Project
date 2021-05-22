@@ -27,7 +27,7 @@ Even though the results seem to be very promising for me personally, I ask you n
 The project includes the following Notebook with detailed analysis and code:
 - Readhead people Project.ipynb
 
-# Brief conclusion
+# Conclusion
 
 Average life expectancy of people in Czech Republic per gender and hair redness degree:
 
