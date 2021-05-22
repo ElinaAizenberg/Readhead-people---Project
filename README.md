@@ -1,6 +1,6 @@
 Keywords: Statistics, EDA, visualization, Bayes' theorem
 
-# Do redhead people live shorter lives?#
+# Do redhead people live shorter lives?
 
 <img src="https://gingerparrot.co.uk/wp/wp-content/uploads/2018/06/group-of-redheads.jpeg" width="800"> 
 I hope the headline of my first project is provocative enough to catch your attention.
