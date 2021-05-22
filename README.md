@@ -1,5 +1,5 @@
 Keywords: Statistics, EDA, visualization, Bayes' theorem
-<img src="http://mathprofi.ru/n/zavisimye_sobytija_clip_image032.gif" width="800"> 
+ 
 # Do redhead people live shorter lives?
 
 <img src="https://gingerparrot.co.uk/wp/wp-content/uploads/2018/06/group-of-redheads.jpeg" width="800"> 
